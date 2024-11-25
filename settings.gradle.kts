@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Kabum"
+rootProject.name = "Shopping"
 include(":app")
  
